@@ -1,0 +1,39 @@
+name: Sync data
+
+on:
+  # Run on every day at 12:00 PM 
+  schedule:
+    - cron: '0 12 * * *'
+    # Run if push to `master` branch
+  push:
+    branches:
+      - master
+
+jobs:
+  sync:
+    # Use latest Ubuntu Linux
+    runs-on: ubuntu-latest
+    steps:
+    # Get src
+    - name: Get source file from repo
+      uses: actions/checkout@v3
+    # Use Python Version 3.11.1
+    - name: Use Python 3.11.1
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11.1
+    # Install deps
+    - name: Install deps
+      run: pip install pymongo requests
+    # Config chmod to allow executing
+    - name: Allow exec
+      run: chmod +x sync.py
+    # Sync posts to MongoDB
+    - name: Sync data
+      env:
+        MONGO_URL: ${{ secrets.MONGO_URL }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_API: ${{ secrets.GH_API }}
+      run: python sync.py
+
+# Authored by KuoHuanHuan.
