@@ -1,7 +1,8 @@
 ---
 title: 使用 GitHub Actions 構建 Hexo blog
-date: 2022-05-10 20:00:00
-comment: true
+datetime: 2022-05-10 20:00:00
+description: 由 GitHub 所推出的免費 CI/CD 工具 —— GitHub Actions 上線一段時間了，之前一直想學，卻總是騰不出時間。正好 Blog 需要一個好的構建環境（之前用的 Cloudflare Pages 內建，太慢了），於是就自己寫了個 Workflow 用來構建（網路上的輪子用著不舒服，還是自己寫好），總算是把這個坑給填了。
+tags: [Development]
 ---
 
 ## 前言

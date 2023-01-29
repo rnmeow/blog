@@ -1,7 +1,8 @@
 ---
 title: 2022 年：我的 Chromium 從 A 到 Z
-date: 2023-01-26 22:40:00
-tags: [2022-recap, chromium]
+datetime: 2023-01-26 22:40:00
+description: 將 A-Z 逐一輸入到 Chromium 的網址列，會自動完成哪些網域呢？靈感來源：Sukka's Blog 和 Mare_Infinitus 的同名文章。
+tags: [2022 Recap]
 ---
 
 將 A-Z 逐一輸入到 Chromium 的網址列，會自動完成哪些網域呢？
