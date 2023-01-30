@@ -6,10 +6,10 @@
     "descr": "给岁月以文明，给时光以生命。"
   },
   {
-    "name": "余晖无垠",
-    "link": "https://www.rssins.net",
-    "avatar": "https://cdn.jsdelivr.net/gh/RSSYLY/redsunsetpic@mull/pic/blog/2021/1621731809290.jpg",
-    "descr": "不止是鴿子--一群廢物"
+    "name": "RSSAN 赤联网域",
+    "link": "https://rssan.com",
+    "avatar": "https://rssan.com/assets/img/logo.png",
+    "descr": "赤联万物，纵深网域"
   },
   {
     "name": "さくら荘その貓貓樂園",
@@ -19,7 +19,7 @@
   },
   {
     "name":  "Maxel's Pages",
-    "link": "https://blog.maxelbk.eu.org/",
+    "link": "https://blog.maxelbk.eu.org",
     "avatar": "https://blog.maxelbk.eu.org/r/maxel.jpg",
     "descr": "Code & write what we want."
   },
@@ -43,38 +43,32 @@
   },
   {
     "name": "DDMTDXW's blog",
-    "link": "https://www.ddmtdxw.ml",
+    "link": "https://ddmtdxw.ml",
     "avatar": "https://s1.328888.xyz/2022/04/16/ibkNg.jpg",
     "descr": "幻想乡 一个MC玩家"
   },
   {
-    "name": "lijiakaijun",
+    "name": "摇曳的蒲公英🌌",
     "link": "https://blog.lijiakaijun.cyou",
     "avatar": "https://blog.lijiakaijun.cyou/me.webp",
-    "descr": "跟随梦想的脚步，感受生命的温度 祝生活愉快（run"
+    "descr": "跟随梦想的脚步，感受生命的温度"
   },
   {
     "name": "Jackie的猫窝",
     "link": "https://jackiecat.top",
-    "avatar": "https://s2.loli.net/2022/05/04/iQsm9Bofv83yY1U.jpg",
+    "avatar": "https://img.jackiecat.top/file/jackie-img/Pictures/avatar.jpg",
     "descr": "一只猫猫的猫窝"
   },
   {
     "name": "Zhuym的博客",
-    "link": "https://zer0code.cn",
-    "avatar": "https://public.sunyz.net/persons/Zhuym.jpg",
+    "link": "https://blog.zer0code.cn",
+    "avatar": "https://s1.ax1x.com/2022/03/06/bBDeJI.png",
     "descr": "Zhuym的个人博客"
   },
   {
-    "name": "Hao_Tian‘s blog",
+    "name": "Hao_Tian‘s blog (23-01-30 x)",
     "link": "https://haotian22.top",
     "avatar": "https://www.haotian22.top/img/head.jpg",
     "descr": "生命不息，折腾不止ヾ(≧▽≦*)o"
-  },
-  {
-    "name": "老陈の咸鱼日常",
-    "link": "https://www.fantanstic.top",
-    "avatar": "https://www.fantanstic.top/img/head.jpg",
-    "descr": "Life is fantanstic."
   }
 ]
