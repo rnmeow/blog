@@ -67,6 +67,12 @@ _（注意：請確保 JSON 格式**正確**。建議使用 [JSONLint](https://j
 
 *（注意：本站前端使用 [jsDelivr](https://www.jsdelivr.com) 取得 JSON 資料，Merge 後可能會有約 24hrs 的快取。）*
 
+## 變動 / 更新友情連結
+
+如果出於某些原因，你需要撤下自己的友情連結，請[開個 issue](https://github.com/kuohuanhuan/blog/issues/new) ，**不要**發起 Pull Request。
+
+如果要更新友情連結資訊，請發起 Pull Request。
+
 ## 如果友情連結被撤下
 
 可能是因為您的網站……
