@@ -65,7 +65,7 @@ _（注意：請確保 JSON 格式**正確**。建議使用 [JSONLint](https://j
 
 4. 發起 Pull Request 並等待 Merge。
 
-*（注意：本站前端使用 [jsDelivr](https://www.jsdelivr.com) 取得 JSON 資料，Merge 後可能會有約 24hrs 的快取。）*
+*（注意：本站前端使用 [jsDelivr](https://www.jsdelivr.com) 取得 JSON 資料，Merge 後可能會有最多 7 天的快取延遲。你可以選擇到 [Purge CDN Cache - jsDelivr](https://www.jsdelivr.com/tools/purge) 手動更新快取的資料，JSON URL: `https://cdn.jsdelivr.net/gh/kuohuanhuan/blog@master/links.json` 。）*
 
 ## 變動 / 更新友情連結
 
