@@ -43,6 +43,7 @@
 - 簡介：`A student residing in Taiwan who codes.` 或*其它你認為適合描述我 / [本站](https://nekohuan.cyou) 的句子*。
 - Avatar（選擇困難症發作。）：
   + WebP (128x128, ~17.7KB): https://nekohuan.cyou/avatar.webp *（推薦，但[不被較舊版 Safari 支援](https://caniuse.com/webp) 。）*
+  + HEIF (128x128, ~2.4KB): https://nekohuan.cyou/avatar.heif *（注意：相容性[非常差勁](https://caniuse.com/avif) 。）*
   + JPG (128x128, ~20.1KB): https://nekohuan.cyou/avatar.jpg
   + PNG (144x144, ~12.8KB): https://nekohuan.cyou/apple-touch-icon.png *（注意：經有損壓縮。）*
   + PNG ([Upload.cc](https://upload.cc) 圖床): https://upload.cc/i1/2023/01/30/WP5BQS.png _（注意：[**可能**對中國大陸 IP 並不友好](https://twitter.com/Uploadcc/status/1463519367325356032) 。）_
