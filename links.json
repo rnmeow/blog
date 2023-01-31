@@ -42,9 +42,9 @@
     "descr": "一个回收站，里面住着Lapis Apple。"
   },
   {
-    "name": "DDMTDXW's blog",
-    "link": "https://ddmtdxw.ml",
-    "avatar": "https://s1.328888.xyz/2022/04/16/ibkNg.jpg",
+    "name": "DDMTDXW's blog (23-01-31 x)",
+    "link": "https://blog.ddmtdxw.ml",
+    "avatar": "https://www.ddmtdxw.ml/img/icon/logo.png",
     "descr": "幻想乡 一个MC玩家"
   },
   {
@@ -70,5 +70,11 @@
     "link": "https://haotian22.top",
     "avatar": "https://www.haotian22.top/img/head.jpg",
     "descr": "生命不息，折腾不止ヾ(≧▽≦*)o"
+  },
+  {
+    "name": "老陈の咸鱼日常",
+    "link": "https://www.fantanstic.top",
+    "avatar": "https://www.fantanstic.top/img/head.jpg",
+    "descr": "Life is fantanstic."
   }
 ]
