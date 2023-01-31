@@ -59,14 +59,14 @@
     "link": "網址",
     "avatar": "圖片",
     "descr": "簡介"
-  },
+  }
 ```
 
-_（注意：請確保 JSON 格式**正確**。建議使用 [JSONLint](https://jsonlint.com) 進行確認。）_
+_（注意：上一個物件的大括號（`}`）後請添加半形逗號（`,`），但最後一項（你添加的新物件）請勿尾隨逗號。並請確保 JSON 格式**正確**。建議使用 [JSONLint](https://jsonlint.com) 進行確認。）_
 
 4. 發起 Pull Request 並等待 Merge。
 
-*（注意：本站前端使用 [GitHack CDN](https://raw.githack.com) 取得 JSON 資料，[GitHub Actions](https://github.com/kuohuanhuan/blog/actions) CI 將在每次 commit 後自動更新前端儲存庫的的 JSON 連結。）*
+*（注意：本站前端使用 [GitHack CDN](https://raw.githack.com) 取得 JSON 資料，[GitHub Actions CI](https://github.com/kuohuanhuan/blog/actions) 將在每次 commit 後自動更新前端儲存庫的 JSON 連結。）*
 
 ## 變動 / 更新友情連結
 
