@@ -1,10 +1,10 @@
 name: Sync data
 
 on:
-  # Run on every day at 12:00 PM 
+  # Run on every day at 12:00 PM
   schedule:
     - cron: '0 12 * * *'
-    # Run if push to `master` branch
+  # Run if push to `master` branch
   push:
     branches:
       - master
