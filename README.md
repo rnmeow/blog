@@ -66,7 +66,7 @@ _（注意：請確保 JSON 格式**正確**。建議使用 [JSONLint](https://j
 
 4. 發起 Pull Request 並等待 Merge。
 
-*（注意：本站前端使用 [GitHack](https://raw.githack.com) CDN 取得 JSON 資料，這個儲存庫使用 [GitHub Actions](https://github.com/kuohuanhuan/blog/actions) 自動更新前端的資料。）*
+*（注意：本站前端使用 [GitHack CDN](https://raw.githack.com) 取得 JSON 資料，[GitHub Actions](https://github.com/kuohuanhuan/blog/actions) CI 將在每次 commit 後自動更新前端儲存庫的的 JSON 連結。）*
 
 ## 變動 / 更新友情連結
 
