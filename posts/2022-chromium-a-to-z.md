@@ -17,10 +17,6 @@ tags: [2022 Recap]
 
 ## B is for
 
-### blog-rss-production.up.railway.app
-
-正在寫的新網站的 RSS Feed，還沒完工所以全部都是 Example Post（？
-
 ### bitbucket.org
 
 忘記什麼原因註冊的了，反正現在用不到。
@@ -67,9 +63,9 @@ Font Awesome——前端 Coder 的好朋友。
 
 ## H is for
 
-### home-backend-production.up.railway.app
+### hcaptcha.com
 
-（又是）正在寫的新網站的後端 API，一如往常的還沒完工：）
+一個驗證碼服務。（然後我不知道為什麼它會在這裡
 
 ## I is for
 
@@ -95,7 +91,7 @@ Font Awesome——前端 Coder 的好朋友。
 
 ## L is for
 
-### localhost:<port>
+### localhost:&lt;port&gt;
 
 嗯，對。
 
@@ -103,21 +99,21 @@ Font Awesome——前端 Coder 的好朋友。
 
 ### mongodb.com
 
-新網站用的 Tech Stack 之一（第一個了解的資料庫，滿有趣的，~~重點是免費~~
+這個網站的舊架構用的 Tech Stack 之一，但偶爾會 delay，所以就遷移到 [GitHub REST API](https://docs.github.com/en/rest) 去了。
 
 ## N is for
 
 ### nekohuan.cyou
 
-**YOU ARE HERE.**
+**你現在就在這裡。**或許之後有時間再來寫一個完整的開發過程文章？
 
 ### nuxt.com
 
-也是新網站用的 Tech Stack 之一，滿強大的 SSR 框架，大概可以理解成 Next.js for Vue？
+這個網站用的 Tech Stack 之一，滿強大的 SSR 框架，大概可以理解成 Next.js for Vue？
 
 ### npmjs.com
 
-NPM 官方套件庫。
+NPM 官方套件庫，找一些套件用還蠻方便的。
 
 ## O is for
 
@@ -133,15 +129,19 @@ NPM 官方套件庫。
 
 ### railway.app
 
-新網站 API（和 RSS Feed）Deploy 的平臺。免費的方案就很夠了說實話。
+一個 Web 服務託管提供商，試過幾次之後覺得速度有點差強人意，就換到現在的 Render 了。
+
+### render.com
+
+同上。但是有新加坡的伺服器，速度提升有感。
 
 ## S is for
 
 ### startpage.com
 
-2022 才瞭解到的一個標榜隱私的搜尋引擎，據說買的 Google 授權，目前日用中。
+2022 才瞭解到的一個標榜隱私的搜尋引擎，據說後端是用 Google，目前日用中。
 
-*ps. 而且還沒廣告，欸嘿*
+（_ps. 而且還沒廣告，欸嘿_
 
 ### surfshark.com
 
@@ -155,17 +155,17 @@ Google 翻譯，在場有人不知道的嗎？（笑
 
 ### tailwindcss.com
 
-又雙叒叕是新網站的 Tech Stack。（基本完成之後應該會用 [Master CSS](https://css.master.co/) 重構，挖坑.mkv）
+又雙叒叕是這個網站的 Tech Stack。（Utility-first CSS 真的是用過就回不去了，大推）
 
 ## U is for
 
 ### unpkg.com
 
-一個好用的 NPM CDN 服務，以前用的 jsDelivr（
+一個好用的 NPM CDN 服務。（以前通常用 jsDelivr）
 
 ### upload.cc
 
-圖床。
+好用的圖床。
 
 ## V is for
 
@@ -181,10 +181,10 @@ Google 翻譯，在場有人不知道的嗎？（笑
 
 ### youtube.com
 
-基本上天天用的網站，聽歌看影片樣樣行（跑
+基本上天天用的網站，聽歌看影片樣樣行（？
 
 ## Z is for
 
-### zh.wikipedia.org/<條目>
+### zh.wikipedia.org/&lt;條目&gt;
 
 中文維基百科。（但是搜尋結果老是跳轉行動版網站，也不知道怎麼搞的）

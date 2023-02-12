@@ -5,11 +5,10 @@
 
 這是 khh.log 的 GitHub 儲存庫。（[網站](https://nekohuan.cyou) 構建的一環。）
 
-其它部份：
+其它儲存庫：
 
-- 前端：https://github.com/kuohuanhuan/home-frontend
-- 後端：https://github.com/kuohuanhuan/home-backend
-- RSS 訂閱伺服器：https://github.com/kuohuanhuan/blog-rss
+- 網站本體：https://github.com/kuohuanhuan/nekohuan.cyou  
+- RSS Feed 伺服器：https://github.com/kuohuanhuan/blog-rss
 
 ## 添加友情連結
 
@@ -27,10 +26,10 @@
 - 網站名稱和簡介沒有過長。
 - 網站 Avatar：
   + 長寬**不超過** 512px。
-  + 託管服務（圖床、Git 儲存庫、網站目錄、雲端硬碟等）可靠（SLA > 60%）。
-  + 檔案大小 < 120KiByte。
+  + 託管服務（圖床、Git 儲存庫、網站目錄、雲端硬碟等）可靠（SLA > 75%）。
+  + 檔案大小 < 2 MiByte。
   + 可正常辨識，不模糊或呈現格狀。（8-bit / Minecraft / pixel 等風格不在此限。）
-  + 靜態圖片，MP4 / MKV 等影片格式禁止。動態 GIF / WebP 等請在 PR 中註明。 
+  + 靜態圖片。MP4 / MKV 等影片格式禁止，動態 GIF / WebP 等請在 PR 中註明。
 - 網站備有「友情連結」頁面 / 區塊。若沒有，可置於頁首或頁尾。
 - **網站內容全年齡段適宜。**
 
@@ -38,15 +37,15 @@
 
 1. 添加本站資訊到「友情連結」列表中：
 
-- 名稱：`Huan's Log` 或 `$ cat khh.log`
+- 名稱：`Huan's Log` 或 `khh.log`
 - 連結：https://nekohuan.cyou
-- 簡介：`A student residing in Taiwan who codes.` 或*其它你認為適合描述我 / [本站](https://nekohuan.cyou) 的句子*。
+- 簡介：`$ curl -i https://nekohuan.cyou` 或*其它你認為適合描述我 / [本站](https://nekohuan.cyou) 的句子*。
 - Avatar（選擇困難症發作。）：
   + WebP (128x128, ~17.7KB): https://nekohuan.cyou/avatar.webp *（推薦，但[不被較舊版 Safari 支援](https://caniuse.com/webp) 。）*
   + AVIF (128x128, ~2.4KB): https://nekohuan.cyou/avatar.avif *（注意：相容性[非常差勁](https://caniuse.com/avif) 。）*
   + JPG (128x128, ~20.1KB): https://nekohuan.cyou/avatar.jpg
   + PNG (144x144, ~12.8KB): https://nekohuan.cyou/apple-touch-icon.png *（注意：經有損壓縮。）*
-  + PNG ([Upload.cc](https://upload.cc) 圖床): https://upload.cc/i1/2023/01/30/WP5BQS.png _（注意：[**可能**對中國大陸 IP 並不友好](https://twitter.com/Uploadcc/status/1463519367325356032) 。）_
+  + PNG ([Upload.cc](https://upload.cc) 圖床): https://upload.cc/i1/2023/01/30/WP5BQS.png _（注意：[**可能**對中國大陸 IP 並不友好](https://twitter.com/Uploadcc/status/1463519367325356032)。）_
   + HEIC (128x128, ~1.99KB): https://nekohuan.cyou/avatar.heic *（注意：[目前尚未有瀏覽器支援](https://caniuse.com/heif) ，戰未來。）*
 
 2. 在 GitHub 上 Fork 此儲存庫。
@@ -66,7 +65,9 @@ _（注意：上一個物件的大括號（`}`）後請添加半形逗號（`,`�
 
 4. 發起 Pull Request 並等待 Merge。
 
-*（注意：本站前端使用 [GitHack CDN](https://raw.githack.com) 取得 JSON 資料，[GitHub Actions CI](https://github.com/kuohuanhuan/blog/actions) 將在每次 commit 後自動更新前端儲存庫的 JSON 連結。）*
+*（注意：本站使用 [GitHack CDN](https://raw.githack.com) 取得 JSON 資料，[GitHub Actions CI](https://github.com/kuohuanhuan/blog/actions) 將在每次 commit 後自動更新前端儲存庫的 JSON 連結。）*
+
+_（注意：本站使用 [ImageKit](https://imagekit.io) 自動將圖片調整成適當大小，並轉換為 WebP 格式。你只需要提供**最穩定**且**不常變動**的圖片連結即可。）_
 
 ## 變動 / 更新友情連結
 
@@ -84,4 +85,4 @@ _（注意：上一個物件的大括號（`}`）後請添加半形逗號（`,`�
 
 如果要回覆連結，請確認您的網站已回復到正常狀態，並重新發起 Pull Request。
 
-*如果可以，請附上您的連結被撤下的 commit。（例如：[383986b](https://github.com/kuohuanhuan/blog/commit/383986beb39c3a01ffaaa2d3399e3ccbede85d3d) ）*
+*如果可以，請附上您的連結被撤下的 commit。（例如：[383986b](https://github.com/kuohuanhuan/blog/commit/383986beb39c3a01ffaaa2d3399e3ccbede85d3d)）*
