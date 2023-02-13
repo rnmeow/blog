@@ -25,6 +25,7 @@ jobs:
       with:
         repository: 'kuohuanhuan/blog'
         path: 'current'
+        token: ${{ secrets.GH_PAT }} # Personal Access Token
     # Get src from kuohuanhuan/nekohuan.cyou
     - name: Get source file (site)
       uses: actions/checkout@v3
