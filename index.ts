@@ -1,4 +1,4 @@
-import * as path from 'https://deno.land/std@0.97.0/path/mod.ts'
+import * as path from 'https://deno.land/std@0.177.0/path/mod.ts'
 import { encode } from 'https://deno.land/std@0.177.0/encoding/base64.ts'
 
 async function getFilesList (dir: string): Promise<string[]> {
@@ -9,8 +9,12 @@ async function getFilesList (dir: string): Promise<string[]> {
   return files
 }
 
-const posts: string[] = []
-for (const f of (await getFilesList(path.join(Deno.cwd(), 'posts')))) {
-  posts.push(encode(await Deno.readTextFile(f)))
+const posts: { slug: string, content: string }[] = []
+for (const f of await getFilesList(path.join(Deno.cwd(), 'posts'))) {
+  posts.push({
+    slug: path.parse(f).name,
+    content: encode(await Deno.readTextFile(f))
+  })
 }
+
 await Deno.writeTextFile(path.join(Deno.cwd(), 'posts.json'), JSON.stringify(posts))
