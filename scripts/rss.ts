@@ -18,9 +18,9 @@ const feed = new Feed({
   link: 'https://nekohuan.cyou',
   image: 'https://nekohuan.cyou/avatar.jpg', // Not next-gen image
   favicon: 'https://nekohuan.cyou/favicon.ico',
-  copyright: `Copyright © 2023-present kuohuanhuan, licensed under CC BY-NC-SA 4.0`,
+  copyright: 'Copyright © 2023-present kuohuanhuan, licensed under CC BY-NC-SA 4.0',
   feedLinks: {
-    atom: `https://nekohuan.cyou/atom.xml`,
+    atom: 'https://nekohuan.cyou/atom.xml',
   },
   author: {
     name: 'kuohuanhuan',
