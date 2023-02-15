@@ -47,7 +47,7 @@ jobs:
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
         cwd: './current'
-        message: 'chore: update posts list (pushed by Actions CI)'
+        message: '[skip ci] chore: update posts list (pushed by GitHub Actions)'
     # Edit RSS Feed file
     - name: Edit public/atom.xml
       run: |
@@ -71,6 +71,6 @@ jobs:
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
         cwd: './target'
-        message: 'chore: sync files (pushed by Actions CI)'
+        message: '[skip ci] chore: sync files (pushed by GitHub Actions)'
 
 # Authored by KuoHuanHuan.
