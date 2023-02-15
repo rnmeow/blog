@@ -34,13 +34,13 @@ jobs:
         path: 'target'
         token: ${{ secrets.GH_PAT }} # Personal Access Token
     # Edit posts list file
-    - name: Edit posts.json
+    - name: Edit list.json
       run: |
         cd current
         deno run --allow-read --allow-write scripts/posts.ts
         cd ..
     # Update posts list file
-    - name: Update posts.json
+    - name: Update list.json
       uses: EndBug/add-and-commit@v9
       with:
         add: 'list.json'
