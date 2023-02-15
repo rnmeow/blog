@@ -43,7 +43,7 @@ jobs:
     - name: Update posts.json
       uses: EndBug/add-and-commit@v9
       with:
-        add: 'posts.json'
+        add: 'list.json'
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
         cwd: './current'
