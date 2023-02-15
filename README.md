@@ -5,10 +5,7 @@
 
 這是 khh.log 的 GitHub 儲存庫。（[網站](https://nekohuan.cyou) 構建的一環。）
 
-其它儲存庫：
-
-- 網站本體：https://github.com/kuohuanhuan/nekohuan.cyou  
-- RSS Feed 伺服器：https://github.com/kuohuanhuan/blog-rss
+`nekohuan.cyou` 儲存庫：https://github.com/kuohuanhuan/nekohuan.cyou
 
 ## 添加友情連結
 
