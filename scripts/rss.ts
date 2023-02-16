@@ -1,7 +1,7 @@
 import * as path from 'https://deno.land/std@0.177.0/path/mod.ts'
 import { marky } from 'https://deno.land/x/marky@v1.1.6/mod.ts'
 import parser from 'https://esm.sh/markdown-yaml-metadata-parser@3.0.0' // `npm:markdown-yaml-metadata-parser`
-import { Feed } from 'https://esm.sh/feed@4.2.2' // `npm:linkedom`
+import { Feed } from 'https://esm.sh/feed@4.2.2' // `npm:feed`
 
 async function getFilesList (dir: string): Promise<string[]> {
   const files: string[] = []
