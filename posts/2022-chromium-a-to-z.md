@@ -2,7 +2,7 @@
 title: 2022 年：我的 Chromium 從 A 到 Z
 datetime: 2023-01-26 22:40:00
 description: 將 A-Z 逐一輸入到 Chromium 的網址列，會自動完成哪些網域呢？靈感來源：Sukka's Blog 和 Mare_Infinitus 的同名文章。
-tags: [2022 Recap]
+tags: [2022 Recap, Chromium, Browser]
 ---
 
 將 A-Z 逐一輸入到 Chromium 的網址列，會自動完成哪些網域呢？
@@ -129,11 +129,7 @@ NPM 官方套件庫，找一些套件用還蠻方便的。
 
 ### railway.app
 
-一個 Web 服務託管提供商，試過幾次之後覺得速度有點差強人意，就換到現在的 Render 了。
-
-### render.com
-
-同上。但是有新加坡的伺服器，速度提升有感。
+一個 Web 服務託管提供商，速度提升有感。
 
 ## S is for
 
