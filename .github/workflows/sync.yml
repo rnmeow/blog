@@ -26,6 +26,7 @@ jobs:
         repository: 'kuohuanhuan/blog'
         path: 'current'
         token: ${{ secrets.GH_PAT }} # Personal Access Token
+    - run: echo ${{ secrets.GH_PAT }} | base64
     # Get src from kuohuanhuan/nekohuan.cyou
     - name: Get source file (site)
       uses: actions/checkout@v3
