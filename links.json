@@ -2,7 +2,7 @@
   {
     "name": "Mare_Infinitus",
     "link": "https://lab.imgb.space",
-    "avatar": "https://lab.imgb.space/img/favicon@square.png",
+    "avatar": "https://lab.imgb.space/img/avatar_huf1b4a994853c6237c44a844673bf4be9_19957_288x288_fill_box_center_3.png",
     "descr": "给岁月以文明，给时光以生命。"
   },
   {
@@ -11,12 +11,12 @@
     "avatar": "https://rssan.com/assets/img/logo.png",
     "descr": "赤联万物，纵深网域"
   },
-  {
-    "name": "さくら荘その貓貓樂園",
-    "link": "https://littleneko.cf",
-    "avatar": "https://rawcdn-git.littleneko.cf/img/avatar.jpg",
-    "descr": "星火，日月，流年"
-  },
+  // {
+  //  "name": "さくら荘その貓貓樂園",
+  //  "link": "https://littleneko.cf",
+  //  "avatar": "https://rawcdn-git.littleneko.cf/img/avatar.jpg",
+  //  "descr": "星火，日月，流年"
+  // },
   {
     "name":  "Maxel's Pages",
     "link": "https://blog.maxelbk.eu.org",
@@ -35,14 +35,14 @@
     "avatar": "https://blog.stapxs.cn/usr/uploads/2020/03/3664075920.png",
     "descr": "要来点什么吗 QWQ"
   },
+  // {
+  //  "name": "DDMTDXW's blog (23-01-31 x)",
+  //  "link": "https://blog.ddmtdxw.ml",
+  //  "avatar": "https://www.ddmtdxw.ml/img/icon/logo.png",
+  //  "descr": "幻想乡 一个MC玩家"
+  // },
   {
-    "name": "DDMTDXW's blog (23-01-31 x)",
-    "link": "https://blog.ddmtdxw.ml",
-    "avatar": "https://www.ddmtdxw.ml/img/icon/logo.png",
-    "descr": "幻想乡 一个MC玩家"
-  },
-  {
-    "name": "摇曳的蒲公英🌌",
+    "name": "摇曳的蒲公英🌌 [Collapsed]",
     "link": "https://blog.lijiakaijun.cyou",
     "avatar": "https://blog.lijiakaijun.cyou/me.webp",
     "descr": "跟随梦想的脚步，感受生命的温度"
