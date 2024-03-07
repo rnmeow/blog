@@ -12,12 +12,6 @@
     "descr": "赤联万物，纵深网域"
   },
   {
-    "name":  "Maxel's Pages [In memorize]",
-    "link": "https://home.maxelbk.eu.org",
-    "avatar": "https://blog.maxelbk.eu.org/r/maxel.jpg",
-    "descr": "已去往參宿四"
-  },
-  {
     "name": "Sunyz Blog",
     "link": "http://blog.sunyz.net",
     "avatar": "https://s2.loli.net/2023/01/30/mfJrDoOXNL4viWu.png",
@@ -52,5 +46,11 @@
     "link": "https://www.fantanstic.top",
     "avatar": "https://www.fantanstic.top/img/head.jpg",
     "descr": "Life is fantanstic."
+  },
+  {
+    "name":  "Maxel's Pages [In memorize]",
+    "link": "https://home.maxelbk.eu.org",
+    "avatar": "https://blog.maxelbk.eu.org/r/maxel.jpg",
+    "descr": "已去往參宿四"
   }
 ]
