@@ -23,14 +23,14 @@ jobs:
     - name: Get source file (blog)
       uses: actions/checkout@v3
       with:
-        repository: 'kuohuanhuan/blog'
+        repository: 'rnmeow/blog'
         path: 'current'
         token: ${{ secrets.GH_PAT }} # Personal Access Token
-    # Get src from kuohuanhuan/nekohuan.cyou
+    # Get src from rnmeow/nekohuan.cyou
     - name: Get source file (site)
       uses: actions/checkout@v3
       with:
-        repository: 'kuohuanhuan/nekohuan.cyou'
+        repository: 'rnmeow/nekohuan.cyou'
         path: 'target'
         token: ${{ secrets.GH_PAT }} # Personal Access Token
     # Edit posts list file

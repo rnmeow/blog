@@ -16,15 +16,15 @@ const feed = new Feed({
   description: '$ curl -i https://nekohuan.cyou',
   id: 'https://nekohuan.cyou',
   link: 'https://nekohuan.cyou',
-  image: 'https://nekohuan.cyou/avatar.jpg', // Not next-gen image
+  image: 'https://nekohuan.cyou/avatar_neo.png', // Not next-gen image
   favicon: 'https://nekohuan.cyou/favicon.ico',
-  copyright: 'Copyright © 2023-present kuohuanhuan, licensed under CC BY-NC-SA 4.0',
+  copyright: 'Copyright © 2023, 2024, Connor Kuo, licensed under CC BY-NC-SA 4.0',
   feedLinks: {
     atom: 'https://nekohuan.cyou/atom.xml',
   },
   author: {
-    name: 'kuohuanhuan',
-    email: 'hi@nekohuan.cyou',
+    name: 'Connor Kuo',
+    email: 'touch@rnmeow.com',
     link: 'https://nekohuan.cyou'
   }
 })
@@ -40,8 +40,8 @@ for (const f of await getFilesList(path.join(Deno.cwd(), '../current', 'posts'))
     title: posts[c].metadata.title,
     description: posts[c].metadata.description,
     author: [{
-      name: 'kuohuanhuan',
-      email: 'hi@nekohuan.cyou',
+      name: 'Connor Kuo',
+      email: 'touch@rnmeow.com',
       link: 'https://nekohuan.cyou'
     }],
     date: new Date(posts[c].metadata.datetime),
