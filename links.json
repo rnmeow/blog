@@ -6,18 +6,6 @@
     "descr": "给岁月以文明，给时光以生命。"
   },
   {
-    "name": "RSSAN 赤联网域",
-    "link": "https://rssan.com",
-    "avatar": "https://rssan.com/assets/img/logo.png",
-    "descr": "赤联万物，纵深网域"
-  },
-  {
-    "name": "Sunyz Blog",
-    "link": "http://blog.sunyz.net",
-    "avatar": "https://s2.loli.net/2023/01/30/mfJrDoOXNL4viWu.png",
-    "descr": "Sunyz 的个人博客"
-  },
-  {
     "name": "林槐的杂货铺",
     "link": "https://blog.stapxs.cn",
     "avatar": "https://blog.stapxs.cn/usr/uploads/2020/03/3664075920.png",
@@ -46,11 +34,5 @@
     "link": "https://www.fantanstic.top",
     "avatar": "https://www.fantanstic.top/img/head.jpg",
     "descr": "Life is fantanstic."
-  },
-  {
-    "name":  "Maxel Black [in memorize]",
-    "link": "https://home.maxelbk.eu.org",
-    "avatar": "https://blog.maxelbk.eu.org/r/maxel.jpg",
-    "descr": "已去往參宿四"
   }
 ]
