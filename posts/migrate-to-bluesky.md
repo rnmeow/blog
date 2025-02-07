@@ -7,7 +7,7 @@ tags: [Bluesky, Twitter, Social Media]
 
 喬遷誌喜。
 
-自從伊隆·馬斯克（Elon Musk）收購 Twitter，改名 X 後，社群的風氣一天比一天要糟。暫且不提強硬地抹煞「Twitter」商標；不消停的仇恨言論、**選擇性**的內容審核、靠北搶錢的 Twitter Blue（現 X Premium），無一不讓人有*滾*去新社群媒體的想法。
+自從伊隆．馬斯克（Elon Musk）收購 Twitter，改名 X 後，社群的風氣一天比一天要糟。暫且不提強硬地抹煞「Twitter」商標；不消停的仇恨言論、**選擇性**的內容審核、靠北搶錢的 Twitter Blue（現 X Premium），無一不讓人有*滾*去新社群媒體的想法。
 
 ## Threads
 
