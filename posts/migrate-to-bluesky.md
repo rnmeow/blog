@@ -1,6 +1,6 @@
 ---
 title: Bluesky——去中心化社群的終極型態
-datetime: 2025-02-03 23:25:00
+datetime: 2025-02-03T23:25:00
 description: "喬遷誌喜。自從伊隆·馬斯克（Elon Musk）收購 Twitter，改名 X 後，社群的風氣一天比一天要糟。暫且不提強硬地抹煞「Twitter」商標；不消停的仇恨言論、選擇性的內容審核、靠北搶錢的 Twitter Blue（現 X Premium），無一不讓人有滾去新社群媒體的想法。"
 tags: [Bluesky, Twitter, Social Media]
 ---
